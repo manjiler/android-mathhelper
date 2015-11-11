@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="M:\Android\My_Projects\android-mathhelper\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="M:\Android\My_Projects\android-mathhelper\build\intermediates\pre-dexed\debug\android-support-v4-ef3d2ea831802906a27e507727fd26fc69449615.jar" />
+    </item>
+
+</items>

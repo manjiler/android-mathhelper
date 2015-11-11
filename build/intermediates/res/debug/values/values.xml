@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/M:/Android/My_Projects/android-mathhelper/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Math Helper</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="equal_sign"> = </string>
+    <string name="equals_zero">= 0</string>
+    <string name="point_intersection">Point of Intersection is (%1$s, %2$s)</string>
+    <string name="quadraticEquationFormula">Roots for Quadratic Equation is given by the formula</string>
+    <string name="roots">X = %1$s</string>
+    <string name="solveLinearEquation">Solving Linear Equations</string>
+    <string name="solveQuadraticEquation">Solve Quadratic Equation</string>
+    <string name="temp_button">Process</string>
+    <string name="xsquare">X<sup><small>2</small></sup></string>
+</resources>
